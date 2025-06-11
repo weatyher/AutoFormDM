@@ -1,9 +1,0 @@
-streamlit
-openai
-firebase-admin
-fpdf
-matplotlib
-pandas
-requests
-python-dotenv
-pyrebase
